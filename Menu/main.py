@@ -8,7 +8,6 @@ from typing import NoReturn, Dict
 import flet as ft
 
 
-
 def main(page: ft.Page) -> NoReturn:
     """
     Main function of our app
