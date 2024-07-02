@@ -27,6 +27,6 @@
 
 # Previews
 <div align="center">
-    <img align="left" src="https://github.com/KourvA/TelegramFlet/blob/main/chat.png" width=450 />
-    <img align="right" src="https://github.com/KourvA/TelegramFlet/blob/main/menu.png" width=450 />
+    <img align="left" src="https://github.com/KourvA/TelegramFlet/blob/main/chat.png" width=400 />
+    <img align="right" src="https://github.com/KourvA/TelegramFlet/blob/main/menu.png" width=400 />
 </div>
