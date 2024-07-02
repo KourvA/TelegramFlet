@@ -45,7 +45,6 @@ def main(page: ft.Page) -> NoReturn:
         leading=ft.IconButton(
             icon="menu"
         ),
-        
         # Title section
         center_title=False,
         bgcolor=palette["app_bar_color"],
