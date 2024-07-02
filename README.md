@@ -25,6 +25,11 @@
 
 **NOTE**: each section has main.py file which you need to run!! like ./Chat/main.py
 
+# Sections
++ **Chat**: Private chat of user
++ **Menu**: Dialog menu (main menu)
+> I will add more sections later...
+
 # Previews
 <div align="center">
     <img align="left" src="https://github.com/KourvA/TelegramFlet/blob/main/chat.png" width=400 />
