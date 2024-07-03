@@ -91,8 +91,37 @@ def main(page: ft.Page) -> NoReturn:
             ft.IconButton(
                 icon="call"
             ),
-            ft.IconButton(
-                icon="more_vert"
+            ft.PopupMenuButton(
+                items=[
+                    ft.PopupMenuItem(
+                        icon="volume_off",
+                        text="Mute"
+                    ),
+                    ft.PopupMenuItem(
+                        icon="search",
+                        text="Search"
+                    ),
+                    ft.PopupMenuItem(
+                        icon="video_call",
+                        text="Video Call"
+                    ),
+                    ft.PopupMenuItem(
+                        icon="contacts",
+                        text="Add to contacts"
+                    ),
+                    ft.PopupMenuItem(
+                        icon="wallpaper",
+                        text="Change Wallpaper"
+                    ),
+                    ft.PopupMenuItem(
+                        icon="clear_all",
+                        text="Clear History"
+                    ),
+                    ft.PopupMenuItem(
+                        icon="delete",
+                        text="Delete chat"
+                    )
+                ]
             )
         ]
     )
