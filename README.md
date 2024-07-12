@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" src="https://github.com/KourvA/TelegramFlet/assets/118578799/9392fcc8-578b-4e3d-9e26-010e126baf71" width=90 />
+    <img align="center" src="https://github.com/kozyol/TelegramFlet/assets/118578799/9392fcc8-578b-4e3d-9e26-010e126baf71" width=90 />
     <h3><b>TelegramFlet</b></h3>
     <p>Making various sections of Telegram app in Flet using Python (UI only)</p>
     <kbd>#Flet #Python #Telegram</kbd>
@@ -8,7 +8,7 @@
 # Installation
 1. **Clone repository**:
     ```bash
-    git clone https://github.com/KourvA/TelegramFlet
+    git clone https://github.com/kozyol/TelegramFlet
     ```
 2. **Install flet**:
     ```bash
@@ -32,6 +32,6 @@
 
 # Previews
 <div align="center">
-    <img align="left" src="https://github.com/KourvA/TelegramFlet/blob/main/chat.png" width=400 />
-    <img align="right" src="https://github.com/KourvA/TelegramFlet/blob/main/menu.png" width=400 />
+    <img align="left" src="https://github.com/kozyol/TelegramFlet/blob/main/chat.png" width=400 />
+    <img align="right" src="https://github.com/kozyol/TelegramFlet/blob/main/menu.png" width=400 />
 </div>
